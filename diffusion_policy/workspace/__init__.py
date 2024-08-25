@@ -1,0 +1,12 @@
+from diffusion_policy.workspace.base_workspace import *
+from diffusion_policy.workspace.train_bet_lowdim_workspace import *
+from diffusion_policy.workspace.train_diffusion_transformer_hybrid_workspace import *
+from diffusion_policy.workspace.train_diffusion_transformer_lowdim_workspace import *
+from diffusion_policy.workspace.train_diffusion_unet_hybrid_workspace import *
+from diffusion_policy.workspace.train_diffusion_unet_image_workspace import *
+from diffusion_policy.workspace.train_diffusion_unet_lowdim_workspace import *
+# from diffusion_policy.workspace.train_diffusion_unet_video_workspace import *
+from diffusion_policy.workspace.train_ibc_dfo_hybrid_workspace import *
+from diffusion_policy.workspace.train_ibc_dfo_lowdim_workspace import *
+from diffusion_policy.workspace.train_robomimic_image_workspace import *
+from diffusion_policy.workspace.train_robomimic_lowdim_workspace import *
